@@ -1,0 +1,2 @@
+# RindaAplkotlin
+Aplikasi Kotlin Sederhana
